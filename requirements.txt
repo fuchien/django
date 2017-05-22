@@ -1,0 +1,12 @@
+appdirs==1.4.3
+colorama==0.3.9
+Django==1.11.1
+httpie==0.9.9
+packaging==16.8
+Pygments==2.2.0
+pyparsing==2.2.0
+python-decouple==3.0
+pytz==2017.2
+requests==2.13.0
+six==1.10.0
+virtualenv==15.1.0
